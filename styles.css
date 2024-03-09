@@ -1,0 +1,38 @@
+body{
+    background-color: white;
+}
+#hero-section{
+height:48vh;
+display: flex;
+}
+.sec1{
+    
+    width: 50%;
+    height: 100%;
+}
+#fname{
+    font-size: 450%;
+
+}
+#name{
+    text-align: center;
+}     
+ #picha{
+    width: 50%;
+    height: 50%;
+ }
+ #about-me{
+    text-align: center;
+    border: 1px; color: black;
+
+ }
+ #contact- me{
+    margin:auto;
+ }
+ form{
+    border: 1px solid black;
+    width: 50%;
+    margin-left: 25%;
+    padding-left: 2%;
+    border-radius: 3%;
+ }
